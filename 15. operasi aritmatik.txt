@@ -1,0 +1,11 @@
+1. irb
+2. 5+5
+3. 5-5
+4. 5*5
+5. 2**3 # ini ** pangkat
+6. 8.even? # apakah 8 adalah genap jika benar maka true
+7. 5.odd? # apakah 5 ganjil jika benar maka true
+8. 6.class # cek tipe data hasil : integer
+9. 6.0.class # cek tipe data hasil : float
+10. 4/5 # integer hasil 0
+11. 4.0/5 # hasilnya pecahan 0.8

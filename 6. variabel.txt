@@ -1,0 +1,20 @@
+REFF:
+=============
+#membuat variable
+1. mahasiswa = "Agung Setiawan"
+puts mahasiswa
+
+#set variable/objek mahasiswa
+2. mahasiswa = "Kipli"
+puts mahasiswa
+
+#membuat variable/tipe data string
+3. string nama = "agung setiawan"
+
+#cek tipe data 
+nama.class # hasilnya string
+
+#membuat variable/tipe data numeric
+4. nilai = 90
+puts.nilai.class # hasilnya fixnum
+

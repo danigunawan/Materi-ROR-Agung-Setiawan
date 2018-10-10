@@ -1,0 +1,26 @@
+REFF:
+https://github.com/rbenv/rbenv
+=============
+1. cek ruby
+ruby -v
+
+2. cek list terbaru rbenv
+rbenv install -l
+
+3. cek versi rbenv yang dipakai
+rbenv versions
+
+mengganti versi ruby
+4. rbenv global 2.3.0 # kita set ke ruby 2.3.0
+
+5. cek lagi pastikan 2.3.0
+ruby -v
+
+6. cd ke project
+
+5. set ke versi 2.3.0
+rbenv local 2.3.0
+
+6. ruby -v
+
+7. rbenv shell 2.3.0

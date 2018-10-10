@@ -1,0 +1,10 @@
+REFF:
+===========
+1. irb
+2. "hari ini adalah hari Kamis".sub('Kamis','Jumat') # hari ini adalah hari Jumat
+3. "apple apple adalah apel".sub('apple', 'apel') #apel apple adalah apel
+4. "apple apple adalah apel".gsub('apple', 'apel') #apel apel adalah apel
+5. "apple apple adalah apel".gsub!('apple', 'apel') #apel apel adalah apel
+6. "Bermain bersama masya and the bear".downcase
+7. "Bermain bersama Masya and The Bear".gsub(' ', '-') # Bermain-bersama-Masya-and-The-Bear
+8. "Bermain bersama Masya and The Bear".downcase.gsub(' ', '-') # bermain-bersama-masya-and-the-bear

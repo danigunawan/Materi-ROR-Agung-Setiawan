@@ -1,0 +1,12 @@
+REFF: 
+sublime text
+atom
+vscode
+vim
+==============
+1. set sintax code
+- buka editor sublime
+- ctrl+shift+p
+- ketik: sspy atau ssruby
+
+2. 

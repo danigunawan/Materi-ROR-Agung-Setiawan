@@ -1,0 +1,15 @@
+REFF:
+============
+1. 
+nama = "Agung" #local variabels
+bahasa = "ruby" #local variabels
+
+puts "Nama saya #{nama}, bahasa saya #{bahasa}"
+
+
+angka = 10
+angka2 = 2
+hasil = angka * angka2
+
+puts "Hasil = #{10 * 2}"
+puts "Hasil = #{hasil}"

@@ -1,0 +1,10 @@
+REFF:
+============
+1. touch interaktif.rb
+isi puts "hello, nama kamu siapa?"
+puts "hai, nama saya "+nama
+puts "hai, nama saya #{nama}"
+2. vim interaktif.rb
+3. nama = gets
+tulis : nama kamu siapa
+4. ruby interaktif.rb

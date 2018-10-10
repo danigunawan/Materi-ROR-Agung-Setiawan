@@ -1,0 +1,12 @@
+REFF: 
+https://repl.it/
+====================
+1. irb /rails c # ini konsole
+
+2. puts apa # echo
+
+3. 6+4 # kombinasi
+
+4. exit
+
+5. clear

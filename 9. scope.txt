@@ -1,0 +1,38 @@
+REFF:
+============
+#local variabel
+- touch scope.rb
+- vim scope.rb
+isikan :
+10.times do
+  x =5
+end
+
+puts x
+
+- :wq
+
+- ruby scope.rb
+
+#global variabel
+
+5.times do
+  $x = 90
+end
+
+puts $x
+
+- ruby scope.rb
+
+#instance variabel
+@news = News.new
+news = News.new
+
+#class variabel
+@@nama_variabl
+
+#constant
+PHI = 22.7
+HARGA = 10000
+puts HARGA
+

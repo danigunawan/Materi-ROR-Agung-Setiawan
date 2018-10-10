@@ -1,0 +1,12 @@
+REFF:
+ruby-doc.org/core-2.4.0/string.html
+==========
+1. irb / rake c / rails c
+2. "agung".upcase # hasil AGUNG
+3. "AGUNG".downcase # agung
+4. "Agung".downcase # agung
+5. "kasur ini rusak".reverse
+6. "agung".capitalize
+7. buah = 'apple'
+buah.upcase!
+buah.upcase

@@ -1,0 +1,20 @@
+REFF:
+============
+1.halo = "     halo halo halo     "
+halo.lsting
+halo.rstrip 
+halo.strip
+
+2. "  password" == "password" # false
+
+3. "  password".strip == "password"
+
+4. kalimat = 'ada,apa,dengan,cinta'
+kalimat.split(',') # ["ada", "dengan", "cinta"]
+
+5. array = kalimat.split(',')# ["ada", "dengan", "cinta"]
+array[0] # ada
+
+6. 'malam ramadhan yuk perbanyak ngaji'.split # ["malam","ramadhan", "yuk", "perbanyak", "ngaji"]
+
+7.
